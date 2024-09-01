@@ -1,0 +1,17 @@
+{
+  "domain": "esp32_ble_mqtt",
+  "name": "ESP32 BLE MQTT Gateway",
+  "codeowners": [
+    "@Senventise"
+  ],
+  "config_flow": true,
+  "dependencies": ["mqtt", "bluetooth"],
+  "documentation": "https://www.home-assistant.io/integrations/esp32_ble_mqtt",
+  "issue_tracker": "https://www.home-assistant.io/integrations/esp32_ble_mqtt",
+  "version" "0.0.1"
+  "homekit": {},
+  "iot_class": "local_polling",
+  "requirements": [],
+  "ssdp": [],
+  "zeroconf": []
+}
